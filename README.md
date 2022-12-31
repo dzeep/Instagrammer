@@ -4,4 +4,5 @@ The application will perform the task of finding individual customers and send f
 We are planning to use C # and Selenium Library while developing the application. We discovered that we can use the Voodoo program as a result of our research.
 Thanks to the desktop application we will develop, marketers will be able to send requests to the followers of their competitors and send mass messages.
 Thus, marketers will not having to search for customers that they can sell their own products one by one. And they will be able to focus on the quality of the product, rather than how many people it introduces its product to.
+
 ![instagrammer fotosd](https://user-images.githubusercontent.com/56601259/210137122-7707566e-1274-4ab4-bf96-760d58baa7e6.png)
